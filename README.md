@@ -1,23 +1,28 @@
-# README
+# アプリ名
+ NEXT STAGE
+
+## サイト概要
+なりたい自分がある方へ向けた、目標設定とタスク管理を楽しく・わかりやすくするためのアプリです。
+
+### サイトテーマ
+タスク管理、自己研鑽
+
+### テーマを選んだ理由
+・目標と期限を決めて自身で目標に向かっていき「なりたい自分になる」ことを後押しするため
+・目標に向けてのタスク管理を目に見える形で分かりやすく行うため
+・個人的に自分が成長していける環境・仕組みに人生の楽しさを感じるため
+
+### ターゲットユーザ
+・自分の目標を公言しチャレンジしたい方
+・タスク管理をアプリでしたい方
+
+### 主な利用シーン
+・目標にむかって努力するユーザー同士での交流
+・１日の予定組み立て、チェック
+・学習時間、運動時間の管理など
+
+## 設計書
 
 
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 機能一覧
+https://docs.google.com/spreadsheets/d/1cOcvlGKD0mJcSuqbXds_7_VYeP7TEmq3HUeOWatkEF0/edit#gid=0
